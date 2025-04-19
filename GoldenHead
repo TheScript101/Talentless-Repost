@@ -1,0 +1,3 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/Saitama%20to%20golden%20headk.txt'))()
+task.wait(0)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/Holy%20dummy.txt'))()
