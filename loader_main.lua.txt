@@ -1,7 +1,7 @@
 -- some parts are skidded from chatgpt
 -- the comments are not from chatgpt though becvause i legitamately need them for debugging and to easily know whats going on if theres an issue
 
-local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/notif_lib.lua"))()
+local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/notif_lib.lua.txt"))()
 
 function playSound(soundId, loudness)
     local sound = Instance.new("Sound")
@@ -11,7 +11,7 @@ function playSound(soundId, loudness)
     sound:Play()
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/load.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/load.lua.txt", true))()
 
 wait(0.3)
 
