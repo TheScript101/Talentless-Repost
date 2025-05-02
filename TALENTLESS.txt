@@ -830,7 +830,7 @@ songisplaying = true
 
 bpm = tonumber(bpmbox.Text)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/loader_main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/loader_main.lua.txt", true))()
 
 -- find which song to play
 
