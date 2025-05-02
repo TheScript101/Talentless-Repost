@@ -972,7 +972,7 @@ closeButton.MouseButton1Click:Connect(function()
 end)
 
 infoButton.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/info.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/info.lua.txt", true))()
 end)
 
     
