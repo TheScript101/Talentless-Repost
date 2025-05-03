@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/TALENTLESS.txt"))()
