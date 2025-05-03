@@ -1040,7 +1040,7 @@ print("loaded NEWSONGBUTTON")
 
 NEWSONGBUTTON.MouseButton1Click:Connect(function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/SuperHub12-Tsb/refs/heads/main/add_song.lua.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/Talentless/add_song.lua.txt", true))()
 
 end)
 
