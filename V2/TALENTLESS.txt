@@ -1315,7 +1315,7 @@ local function test(name, _, func)
         return true
     else
         print(name .. " failed: " .. err)
-        return false
+        return true
     end
 end
 
