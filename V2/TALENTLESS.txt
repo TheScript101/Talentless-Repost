@@ -1119,7 +1119,7 @@ function playbuttonclicked()
     bpm = tonumber(bpmbox.Text)
 
     loadstring(
-        game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/loader_main.lua", true)
+        game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/V2/loader_main.lua.txt", true)
     )()
 
     -- find which song to play
