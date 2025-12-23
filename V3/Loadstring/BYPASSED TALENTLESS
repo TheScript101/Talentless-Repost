@@ -1,0 +1,5 @@
+-- Bypasser
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/V3/Bypasser"))()
+
+-- Talentless Hub Loader
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/V3/LoaderStuff/LoaderTalentlessHub", true))()
