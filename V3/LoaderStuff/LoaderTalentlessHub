@@ -1,0 +1,12 @@
+-- Copyright (C) 2025 hellohellohell012321
+-- Licensed under the GNU GPL v3. See LICENSE file for details.
+
+pcall(function()
+    loadstring(
+        game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/V3/MAIN.lua", true)
+    )()
+end)
+
+loadstring(
+    game:HttpGet("https://raw.githubusercontent.com/TheScript101/Talentless-Repost/refs/heads/main/V3/discordpopup.lua.txt", true)
+)()
